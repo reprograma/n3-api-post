@@ -5,8 +5,8 @@ Agora que você está criando rotas que são capazes de retornar dados do servid
 
 ### O protocolo HTTP e como chegamos até aqui 🌐
 
-- [O que é o HTTP? Como funcionam requests e responses?](http://gabsferreira.com/o-que-e-o-http-como-funciona-request-respose/){:target="_blank"}
-- [HTTP Overview](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview){:target="_blank"}
+- [O que é o HTTP? Como funcionam requests e responses?](http://gabsferreira.com/o-que-e-o-http-como-funciona-request-respose/)
+- [HTTP Overview](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
 
 ### POST 📮
 
