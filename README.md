@@ -14,3 +14,9 @@ Agora que você está criando rotas que são capazes de retornar dados do servid
 O método HTTP POST envia dados ao servidor. O tipo do corpo da solicitação é indicado pelo cabeçalho Content-Type.
 
 
+##### Ok. Mas quando usamos o POST?
+
+Nós vamos utilizá-lo sempre que desejarmos cadastrar um dado novo no nosso backend. 
+Para fazer nossos testes, vamos utilizar o maravilhoso [Postman](https://www.getpostman.com/):rocket:
+
+
