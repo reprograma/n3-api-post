@@ -20,3 +20,15 @@ Nós vamos utilizá-lo sempre que desejarmos cadastrar um dado novo no nosso bac
 Para fazer nossos testes, vamos utilizar o maravilhoso [Postman](https://www.getpostman.com/):rocket:
 
 
+#### O amigo body-parser
+
+O `body-parser` é um módulo capaz de converter o body da requisição para vários formatos. Um desses formatos é json, exatamente o que queremos.
+
+Então vamos instalá-lo.
+
+```npm instal body-parser --save```
+
+
+##### Lembrete!
+O post geralmente é feito pra criar um registro único na base de dados. 
+Hoje seu desafio será implementar essa tarefa de não salvar coisas repetidas.
