@@ -1,4 +1,4 @@
-let model = {
+let agenda = {
   contatos: [
     {
       id: 1,
@@ -7,7 +7,7 @@ let model = {
       celular: '96666-6666'
     },
     {
-      id: 1,
+      id: 2,
       nome: 'Leticia',
       dataNascimento: '01/01/1990',
       celular: '96666-6666'
@@ -16,5 +16,5 @@ let model = {
 }
 
 module.exports = {
-  model
+  agenda
 }
