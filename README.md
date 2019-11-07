@@ -26,7 +26,9 @@ O `body-parser` é um módulo capaz de converter o body da requisição para vá
 
 Então vamos instalá-lo.
 
-```npm install body-parser --save```
+```
+npm install body-parser --save
+```
 
 
 ##### Desafio da 4a. feira!
