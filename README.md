@@ -45,6 +45,12 @@ Neste momento sabemos acrescentar um ID ao nosso objeto. Então agora você vai 
 ```
 
 #### Quinto-sextou
+
 Ok, dado que a gente sabe salvar um contato inédito na agenda e nós temos a data de nascimento, que tal se a gente conseguir informar qual o signo do nosso novo contatinho? :eyes:
 
 - [ ] Depois de incluir o contato, retorne a mensagem "Oi [Pessoa incríve]] feliz que você é do signo de [o signo vai aqui]"
+
+###### Extra do Extra
+- [ ] Após cadastrar  um novo contato, além do signo, devolva quantos semanas o contato já viveu.
+- [ ] Se o dia do aniversário da pessoa for 08/11/2019, devolva uma mensagem de paz :heart:
+
